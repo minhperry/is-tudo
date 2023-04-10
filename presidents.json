@@ -1,0 +1,101 @@
+{
+    "Washington": {
+        "party": "Federalist",
+        "state": "Virginia",
+        "hobby": []
+    },
+    "Jefferson": {
+        "party": "DemoRep",
+        "state": "Virginia",
+        "hobby": [
+            "Fishing",
+            "Riding"
+        ]
+    },
+    "Harrison": {
+        "party": "Whig",
+        "state": "Virginia",
+        "hobby": [
+            "Hunting"
+        ]
+    },
+    "Lincoln": {
+        "party": "Republican",
+        "state": "Kentucky",
+        "hobby": [
+            "Walking"
+        ]
+    },
+    "Cleveland": {
+        "party": "Democratic",
+        "state": "NewJersey",
+        "hobby": [
+            "Fishing"
+        ]
+    },
+    "Roosevelt": {
+        "party": "Republican",
+        "state": "NewYork",
+        "hobby": [
+            "Boxing",
+            "Hunting",
+            "Jujitsu",
+            "Riding",
+            "Shooting",
+            "Tennis",
+            "Wrestling"
+        ]
+    },
+    "Kennedy": {
+        "party": "Democratic",
+        "state": "Massachusetts",
+        "hobby": [
+            "Sailing",
+            "Swimming",
+            "TouchFootball"
+        ]
+    },
+    "Clinton": {
+        "party": "Democratic",
+        "state": "Arkansas",
+        "hobby": [
+            "Saxophone"
+        ]
+    },
+    "Bush": {
+        "party": "Republican",
+        "state": "Texas",
+        "hobby": [
+            "Baseball",
+            "Golf",
+            "Fishing"
+        ]
+    },
+    "Obama": {
+        "party": "Democratic",
+        "state": "Hawaii",
+        "hobby": [
+            "Basketball",
+            "Poker",
+            "Cooking"
+        ]
+    },
+    "Trump": {
+        "party": "Republican",
+        "state": "NewYork",
+        "hobby": [
+            "Golf",
+            "WatchingTV",
+            "PublicSpeaking"
+        ]
+    },
+    "Biden": {
+        "party": "Democratic",
+        "state": "Pennsylvania\n",
+        "hobby": [
+            "Exercise",
+            "Sports",
+            "Reading"
+        ]
+    }
+}
